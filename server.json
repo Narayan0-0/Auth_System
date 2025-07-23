@@ -1,0 +1,8 @@
+{
+    "name":"UserAuthApp",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "dependencies":{
+        "BCrypt":"^3.2.0+1",
+        "cbmessagebox":"^4.1.0+1",
+        "cbvalidation":"^4.5.0+27",
+        "coldbox":"^7.4.2+24"
+    },
+    "installPaths":{
+        "BCrypt":"modules/BCrypt/",
+        "cbmessagebox":"modules/cbmessagebox/",
+        "cbvalidation":"modules/cbvalidation/",
+        "coldbox":"coldbox/"
+    },
+    "location":"forgeboxStorage",
+    "name":"UserAuthApp",
+    "slug":"userauthapp",
+    "version":"1.0.0"
+}
